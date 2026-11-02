@@ -2,7 +2,7 @@
 <b>Merks@DESKTOP-G8J839M</b><br>
 --------------------<br>
 <b>About:</b> My name is Marko, im an artist, editor and i have a passion for customizing shit. im a noobie on github so dont expect much<br>
-<b>OS:</b> Windows 11 Home (Sometimes experiments with Arch) <br>
+<b>OS:</b> Windows 11 Home (Sometimes experiments with Cachy OS) <br>
 <b><br>
 <b>Host:</b> Merks :3<br>
 <b>Terminal:</b> Windows Terminal<br>
