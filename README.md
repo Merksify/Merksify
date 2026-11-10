@@ -1,7 +1,7 @@
 <img align="left" src="SPOILER_Illustration12.png" width="340" alt="Illustration 12">
 <b>Merks@DESKTOP-G8J839M</b><br>
 --------------------<br>
-<b>About:</b> My name is Marko, im an artist, editor and i have a passion for customizing shit. im a noobie on github so dont expect much<br>
+<b>About:</b> My name is Marko, im an artist, editor and i have a passion for customizing shit. im a noobie on github so dont expect much (most of the things i post here are either forked or vibecoded)<br>
 <br>
 <b>OS:</b> Windows 11 Home (Sometimes experiments with Cachy OS)<br>
 <b>Terminal:</b> Windows Terminal<br>
