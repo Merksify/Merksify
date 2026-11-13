@@ -1,7 +1,7 @@
 <img align="left" src="SPOILER_Illustration12.png" width="340" alt="Illustration 12">
 <b>Merks@DESKTOP-G8J839M</b><br>
 --------------------<br>
-<b>About:</b> My name is Marko, im an artist, editor and i have a passion for customizing shit. im a noobie on github so dont expect much (most of the things i post here are either forked or vibecoded)<br>
+My name is Marko, im an artist, editor and i have a passion for customizing shit. im a noobie on github so dont expect much (most of the things i post here are either forked or vibecoded)<br>
 <br>
 <b> Artwork:@Ceylanokku on most social medias<br>
 <br>
