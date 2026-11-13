@@ -3,7 +3,7 @@
 --------------------<br>
 <b>About:</b> My name is Marko, im an artist, editor and i have a passion for customizing shit. im a noobie on github so dont expect much (most of the things i post here are either forked or vibecoded)<br>
 <br>
-<b> Artwork on the left by @Ceylanokku on most social medias
+<b> Artwork:@Ceylanokku on most social medias<br>
 <br>
 <b>OS:</b> Windows 11 Home (Sometimes experiments with Cachy OS)<br>
 <b>Terminal:</b> Windows Terminal<br>
